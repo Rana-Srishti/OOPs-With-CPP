@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "My Configuration",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Program Files/MySQL/MySQL Server 8.0/include"
+            ],
+            "defines": [],
+            "compilerPath": "C:/MinGW/bin/g++.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

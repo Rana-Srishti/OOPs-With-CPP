@@ -1,0 +1,5 @@
+B001 J.K. Rowling 20.50 300 Scholastic 2001
+B002 George Orwell 15.00 250 Penguin Books 1949
+B003 Harper Lee 18.75 320 HarperCollins 1960
+B004 Stephen King 22.99 400 Random House 1974
+B005 Jane Austen 12.99 280 Vintage Books 1813

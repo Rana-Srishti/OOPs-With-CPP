@@ -888,5 +888,6 @@ int main() {
    C c2;
    c2.setcmn(4);
    c2.Common::show();
+   cout<<"Hello World"<<endl;
    return 0;
 }

@@ -1,1 +1,0 @@
-throw "Division by zero not possible";

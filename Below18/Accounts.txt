@@ -1,0 +1,4 @@
+30042401|Harsh Mahajan|10000.000000|Savings|9908049792|Khargone
+30042402|Anvi Agarwal|100000|Fixed Deposit(5 years)|7419472640|Jaipur-Main
+30042403|Srishti Rana|75000|Fixed Deposit(2 years)|8546975308|Saket-I
+30042404|R.Kashyap|27500.000000|Savings|7455348872|Hyderabad-II

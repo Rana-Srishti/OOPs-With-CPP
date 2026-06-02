@@ -1,0 +1,19 @@
++-----------------------------------------------------+
+|                     Accounts                        |
++-----------------------------------------------------+
+| - AccNo: int                                        |
+| - AccHolder: string                                 |
+| - Balance: int                                      |
+| - sch: string                                       |
+| - PhoneNo: string                                   |
+| - Branch: string                                    |
++-----------------------------------------------------+
+| + Accounts()                                        |
+| + Accounts(int, string, int, string, string, string)|
+| + void CreateAccount()                              |
+| + void DisplayDetails()                             |
+| + void Deposit(int, float)                          |
+| + void Withdrawal(int, float)                       |
+| + bool Eligibility(int, string)                     |
+| + void MoneyTransfer(int, int, double)              |
++-----------------------------------------------------+
